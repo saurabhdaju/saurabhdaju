@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhdaju&label=Profile%20views&color=0e75b6&style=flat" alt="dajubhai" /> </p>
 
-<p align="left"> <a href="https://twitter.com/saurabhdaju" target="blank"><img src="https://img.shields.io/twitter/follow/0xsiddesh?logo=twitter&style=for-the-badge" alt="0xSiddesh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/saurabhdaju" target="blank"><img src="https://img.shields.io/twitter/follow/saurabhdaju?logo=twitter&style=for-the-badge" alt="dajubhai" /></a> </p>
 
 - 💬 Ask me about **Java, CF and bkchodi**
 
