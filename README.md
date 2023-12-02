@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Saurabh</h1>
 <h3 align="center">An engineering student with great interest towards building Web 3 applications</h3>
 
