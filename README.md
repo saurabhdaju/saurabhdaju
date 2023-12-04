@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurabh</h1>
-<h3 align="center">An engineering student with great interest towards building Web 3 applications</h3>
+<h3 align="center">An engineering student with great interest towards Web 3 applications, Machine Learning and AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhdaju&label=Profile%20views&color=0e75b6&style=flat" alt="dajubhai" /> </p>
 
