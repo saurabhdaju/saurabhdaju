@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java, CF and bkchodi**
 
-- 📫 How to reach me? **@saurabhdaju** everywhere **:D**
+- 📫 How to reach me [**@saurabhdaju**](bio.link/saurabhdaju)
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhdaju&show_icons=true&locale=en&layout=compact" alt="dajubhai" /></p>
