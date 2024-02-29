@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurabh</h1>
-<h3 align="center">An engineering student with great interest towards Web 3, Machine Learning and AI</h3>
+<!-- <h3 align="center">An engineering student with great interest towards Web 3, Machine Learning and AI</h3> -->
 <h3 align="center">An engineering student passionate about problem-solving and competitive programming in Java. Eager explorer of new technologies and always up for a coding challenge!</h3>
 
 
