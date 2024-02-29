@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/saurabhdaju" target="blank"><img src="https://img.shields.io/twitter/follow/saurabhdaju?logo=twitter&style=for-the-badge" alt="dajubhai" /></a> </p>
 
-- 💬 Ask me about **Java, CF and bkchodi**
+- 💬 We can talk about **Java, CP and 🎸**
 
 - 📫 How to reach me [**@saurabhdaju**](https://bio.link/saurabhdaju)
 
